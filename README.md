@@ -14,13 +14,7 @@ SNPSolver is a Python program designed to solve SNP (Single Nucleotide Polymorph
 
 2. **Navigate to the Directory**: Move into the directory where you cloned the repository.
 
-3. **Run the Program**: Execute the Python script with the desired input puzzle size (3 or 4) and the initial state of the puzzle.
-
-ex:
-3
-1 2 3
-x 8 6
-4 5 7
+3. **Run the Program**: Execute the Python script with the desired input puzzle size (3 or 4) and the initial state of the puzzle. An example text file is provided (puzzle.txt).
 
 ## Dependencies
 - Python 3.0+
